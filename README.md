@@ -7,4 +7,5 @@
 - Being a jerk
 
 (Also please make the css better)
+
 If you want to you can add yourself to the list of contributors 
