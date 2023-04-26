@@ -1,7 +1,13 @@
 body{
 	font-family: Helvetica, Arial, sans-serif;
+	background-color: rgb(33, 54, 54);
+	color: rgb(206, 219, 219);
 }
 
 h2 {
 	font-weight: normal;
+}
+
+img {
+	width: 300px;
 }
